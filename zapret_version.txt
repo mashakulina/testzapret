@@ -1,2 +1,2 @@
-2.1
+2.0
 https://github.com/mashakulina/testzapret/releases/latest/download/zapret.tar.gz
